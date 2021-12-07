@@ -34,5 +34,5 @@ I'm a passionate full stack developer always looking for evolution
 
 
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=LeonardoReisAmorim&show_icons=true&include_all_commits=true&theme=merko&hide_border=true" alt="Leonardo Reis Amorim github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoReisAmorim&layout=compact&theme=merko&hide_border=true" /></a> |
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=LeonardoReisAmorim&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" alt="Leonardo Reis Amorim github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoReisAmorim&layout=compact&theme=radical&hide_border=true" /></a> |
 | ------------- | ------------- |
