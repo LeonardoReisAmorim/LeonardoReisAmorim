@@ -32,3 +32,7 @@ I'm a passionate full stack developer always looking for evolution
 <code><img height="20" src="https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white"></code>
 <code><img height="20" src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white"></code>
 
+
+
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=LeonardoReisAmorim&show_icons=true&include_all_commits=true&theme=merko&hide_border=true" alt="Leonardo Reis Amorim github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoReisAmorim&layout=compact&theme=merko&hide_border=true" /></a> |
+| ------------- | ------------- |
