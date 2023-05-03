@@ -8,7 +8,7 @@ I'm a passionate full stack developer always looking for evolution
 
 - 💼 Full stack developer at [Gomara](https://www.gomara.tech)
 
-- ❤️ Currently in love with Angular and C# Asp.Net Core, always looking to reach the next level
+- ❤️ Currently in love with Angular and C# .NET, always looking to reach the next level
 
 - 💬 For more information see my [LinkedIn](https://www.linkedin.com/in/leonardo-reis-175243192)
 
