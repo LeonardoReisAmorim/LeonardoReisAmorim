@@ -10,7 +10,7 @@ I'm a passionate full stack developer always looking for evolution
 
 - ❤️ Currently in love with Angular and C# .NET, always looking to reach the next level
 
-- 💬 For more information see my [LinkedIn](https://www.linkedin.com/in/leonardo-reis-175243192)
+- 💬 For more information see my [LinkedIn](https://www.linkedin.com/in/leonardo-reis-amorim-175243192)
 
 
 
